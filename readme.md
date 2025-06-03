@@ -32,7 +32,7 @@ To_Do_List/
 
 1. Bu repoyu indir veya klonla:
    ```bash
-   git clone https://github.com/kullanici-adin/To_Do_List.git
+   [git clone https://github.com/kullanici-adin/To_Do_List.git](https://github.com/ekinnn35/To-Do-List)
    ```
 2. Proje klasörünü gir:
    ```bash
@@ -40,9 +40,6 @@ To_Do_List/
    ```
 3. `index.html` dosyasını çift tıklayarak tarayıcında aç.
 
-## 📸 Görsel Önizleme
-
-_(Buraya bir ekran görüntüsü eklersen daha etkileyici olur.)_
 
 ## 👨‍💻 Geliştirici
 
